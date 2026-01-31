@@ -20,8 +20,8 @@ A modern, sport bike-inspired digital speedometer designed for the ILI9341 TFT d
 ├── speedometer.c       # Speedometer implementation
 └── CMakeLists.txt      # CMake build configuration
 lib (dir)
-├── ili9341.h           # ILI9341 display driver header (user-provided)
-├── ili9341.c           # ILI9341 display driver implementation (user-provided)
+├── ili9341.h           # ILI9341 display driver header
+├── ili9341.c           # ILI9341 display driver implementation
 
 ```
 
